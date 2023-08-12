@@ -10,3 +10,9 @@ my first Public repository
 - [ ] Contact the media
 
 That is so funny! :joy:
+
+# fbout me
+
+My name is Stepan Goncharuk.
+
+I live in Ukraine.
