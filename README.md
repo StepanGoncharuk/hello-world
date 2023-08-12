@@ -11,7 +11,7 @@ my first Public repository
 
 That is so funny! :joy:
 
-# fbout me
+# about me
 
 My name is Stepan Goncharuk.
 
